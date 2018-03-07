@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb534f0-eb4d-4951-ad17-a3efc87afdd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/TableExersise2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TableExercise2.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Table Exersise 2.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/stuff.html" afterPath="$PROJECT_DIR$/TableExercise1.html" />
     </list>
@@ -18,8 +19,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TableExersise2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TableExersise2.html">
+      <file leaf-file-name="TableExercise2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TableExercise2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
@@ -123,12 +124,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520391377158</updated>
-      <workItem from="1520391378359" duration="1076000" />
+      <workItem from="1520391378359" duration="1127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1076000" />
+    <option name="totallyTimeSpent" value="1127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="804" extended-state="6" />
@@ -163,7 +164,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TableExersise2.html">
+    <entry file="file://$PROJECT_DIR$/TableExercise2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
